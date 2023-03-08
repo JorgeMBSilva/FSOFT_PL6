@@ -1,0 +1,21 @@
+# ninja log v5
+3	2388	6999157031132796	SchoolApplicationTester.exe	3ddfb3194b99c3f8
+11	506	6989543962761208	CMakeFiles/FirstProjectTester.dir/C_/Users/Jorge/CLionProjects/SchoolApplication/sources/Student.cpp.obj	8b33c2aef86a5450
+21	1084	6989543968546486	googleTestLib/googletest-main/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	5c1534b444640592
+6939	8945	6989544047139008	lib/libgtest.a	7c1c69a7bfbe212a
+1	1144	6989543969127008	CMakeFiles/FirstProjectTester.dir/main.cpp.obj	79dad2432839f344
+6	1163	6989543969327187	CMakeFiles/FirstProjectTester.dir/tests/test_student.cpp.obj	75d2cc94428553c5
+16	6938	6989544026979037	googleTestLib/googletest-main/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	a4d0186a8edd5cf3
+2	304	6999157195402768	build.ninja	7f2b8ee24a4402c
+8945	9005	6989544047759578	lib/libgtest_main.a	39800dfae225ad06
+4	377	6999154699419656	CMakeFiles/SchoolApplicationTester.dir/C_/Users/Jorge/CLionProjects/SchoolApplication/sources/Student.cpp.obj	47dc3ae1b1d4ed2d
+5	1055	6989544618652225	CMakeFiles/SchoolApplicationTester.dir/tests/test_student.cpp.obj	9838d10158e9ab24
+4	1027	6999156847008983	CMakeFiles/SchoolApplicationTester.dir/main.cpp.obj	4900f9f098aabe7d
+16	1292	6989544621044408	googleTestLib/googletest-main/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	b6532fe62e98da24
+20	2396	6989544632044425	googleTestLib/googletest-main/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	156b68e5f7dc0c03
+2396	2688	6989544635007108	lib/libgmock.a	d06c2dd5f463d52
+2688	2746	6989544635587643	lib/libgmock_main.a	2ba2d48a2f2d8e72
+9	980	6999156846548568	CMakeFiles/SchoolApplicationTester.dir/tests/test_grade.cpp.obj	d9934cd9e49eac93
+4	300	6999154965060923	CMakeFiles/SchoolApplicationTester.dir/C_/Users/Jorge/CLionProjects/SchoolApplication/sources/Person.cpp.obj	1df65864d8625e0
+8	235	6999155371472794	CMakeFiles/SchoolApplicationTester.dir/C_/Users/Jorge/CLionProjects/SchoolApplication/sources/Grade.cpp.obj	a8e4a751a1438b2b
+4	241	6999155371532854	CMakeFiles/SchoolApplicationTester.dir/C_/Users/Jorge/CLionProjects/SchoolApplication/sources/Professor.cpp.obj	7652bd29bed8f05b

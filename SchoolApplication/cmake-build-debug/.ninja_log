@@ -1,0 +1,21 @@
+# ninja log v5
+3	236	6999101497956460	build.ninja	2a6aa41fe1fe3c5c
+3	342	6999096008645812	CMakeFiles/ProfessorApplication.dir/main.cpp.obj	4dcd90143ade6f13
+7	363	6999096008876020	CMakeFiles/ProfessorApplication.dir/sources/Student.cpp.obj	d9b1b189dddc0831
+16	398	6999092045981307	CMakeFiles/ProfessorApplication.dir/sources/Person.cpp.obj	7dfea2877ecda697
+363	468	6999096009896957	ProfessorApplication.exe	e831ff78ff40226a
+20	331	6999092045310699	CMakeFiles/ProfessorApplication.dir/sources/Professor.cpp.obj	166b111315583e58
+12	339	6999096008625793	CMakeFiles/ProfessorApplication.dir/sources/SchoolApplicationUI.cpp.obj	769ae362a52e987f
+23	331	6999141553816249	CMakeFiles/ProfessorApplication.dir/sources/Grade.cpp.obj	ad80c2054284385
+14	347	6999141553996420	CMakeFiles/ProfessorApplication.dir/sources/Professor.cpp.obj	166b111315583e58
+3	379	6999141554306695	CMakeFiles/ProfessorApplication.dir/main.cpp.obj	4dcd90143ade6f13
+7	386	6999141554386767	CMakeFiles/ProfessorApplication.dir/sources/Person.cpp.obj	7dfea2877ecda697
+18	416	6999141554687042	CMakeFiles/ProfessorApplication.dir/sources/Student.cpp.obj	d9b1b189dddc0831
+3	307	6999145234934438	CMakeFiles/ProfessorApplication.dir/main.cpp.obj	4dcd90143ade6f13
+7	308	6999145234934438	CMakeFiles/ProfessorApplication.dir/sources/SchoolApplicationUI.cpp.obj	769ae362a52e987f
+308	421	6999145236050380	ProfessorApplication.exe	e87350cd863266bd
+3	297	6999145399929729	CMakeFiles/ProfessorApplication.dir/main.cpp.obj	4dcd90143ade6f13
+297	406	6999145400990693	ProfessorApplication.exe	e87350cd863266bd
+3	314	6999147656456423	CMakeFiles/ProfessorApplication.dir/sources/SchoolApplicationUI.cpp.obj	769ae362a52e987f
+7	327	6999147656596551	CMakeFiles/ProfessorApplication.dir/sources/Student.cpp.obj	d9b1b189dddc0831
+328	426	6999147657557432	ProfessorApplication.exe	e87350cd863266bd

@@ -1,0 +1,3 @@
+C:/Users/Jorge/CLionProjects/SchoolApplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jorge/CLionProjects/SchoolApplication/cmake-build-debug/CMakeFiles/ProfessorApplication.dir
+C:/Users/Jorge/CLionProjects/SchoolApplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
